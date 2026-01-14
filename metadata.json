@@ -1,0 +1,8 @@
+{
+  "name": "EventHub",
+  "description": "A world-class event management and discovery platform with AI-powered recommendations, real-time analytics, and seamless event creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
